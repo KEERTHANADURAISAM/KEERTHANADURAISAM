@@ -16,9 +16,11 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=keerthanaduraisamy&theme=radical)
 
 ### 📂 Featured Projects
-- 🔥 [Money Manager App](https://github.com/keerthanaduraisamy/money-manager) - Track your savings, expenses & investments.
-- 🛍️ [Tara’s Aesthetic E-commerce](https://github.com/keerthanaduraisamy/taras-ecommerce) - A modern online store with payment authentication.
-- 📊 [Admin Dashboard](https://github.com/keerthanaduraisamy/admin-dashboard) - Mantis Free React Admin Dashboard customization.
+- 🔥 [Money Manager App]() - Track your savings, expenses & investments. 🚀.
+- 🛍️ [Tara’s Aesthetic E-commerce](https://github.com/keerthanaduraisamy/taras-ecommerce) - A modern online store with payment authentication. 🚀.
+- 📊 [ZKC-Social Media](https://github.com/KEERTHANADURAISAM/Social-Media-App) -is a MERN stack-based social media application featuring authentication, likes, follows, and chat functionalities. 🚀 .
+- 📁 [My Portfolio](https://incredible-dolphin-b4cd00.netlify.app/).
+     
 
-🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaduraisamy)  
+🔗 [LinkedIn](www.linkedin.com/in/keerthana-duraisamy-b67a40253)  
 📧 [Email](mailto:keerthanadurai05@gmail.com)  
