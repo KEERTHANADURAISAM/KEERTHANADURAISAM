@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Keerthana Duraisamy
 🚀 Full Stack Developer | MERN | Web Enthusiast | Open Source Contributor
 
 🔹 Passionate about building scalable web applications.  
@@ -21,5 +21,4 @@
 - 📊 [Admin Dashboard](https://github.com/keerthanaduraisamy/admin-dashboard) - Mantis Free React Admin Dashboard customization.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/keerthanaduraisamy)  
-🐦 [Twitter](https://twitter.com/keerthanadurai)  
-📧 [Email](mailto:keerthanadurai@example.com)  
+📧 [Email](mailto:keerthanadurai05@gmail.com)  
