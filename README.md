@@ -16,11 +16,14 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=keerthanaduraisamy&theme=radical)
 
 ### 📂 Featured Projects
-- 🔥 [Money Manager App]() - Track your savings, expenses & investments. 🚀.
-- 🛍️ [Tara’s Aesthetic E-commerce](https://github.com/keerthanaduraisamy/taras-ecommerce) - A modern online store with payment authentication. 🚀.
-- 📊 [ZKC-Social Media](https://github.com/KEERTHANADURAISAM/Social-Media-App) -is a MERN stack-based social media application featuring authentication, likes, follows, and chat functionalities. 🚀 .
-- 📁 [My Portfolio](https://incredible-dolphin-b4cd00.netlify.app/).
-     
+- 🔥 [Money Manager App](https://money-manager-app-client.vercel.app/) - Track your savings, expenses & investments. 🚀.
+- 🛍️ [Tara’s Aesthetic E-commerce](https://ecommerece-app-cnk6.vercel.app/) - A modern online store with payment authentication. 🚀.
+- 📊 [ZKC-Social Media](https://social-media-app-client-eta.vercel.app/auth) -is a MERN stack-based social media application featuring authentication, likes, follows, and chat functionalities. 🚀 .
 
+     
+### 🌐 My profiles
 🔗 [LinkedIn](www.linkedin.com/in/keerthana-duraisamy-b67a40253)  
-📧 [Email](mailto:keerthanadurai05@gmail.com)  
+📧 [Email](mailto:keerthanadurai05@gmail.com)
+📄 [Resume](https://drive.google.com/file/d/1RK4OIZ8R1hF8N1HwYN74qkwGUDRy0rWZ/view)  
+🏆 [My Portfolio](https://incredible-dolphin-b4cd00.netlify.app/)
+
